@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the EV Chagre Pro app (hereby referred to as "Application") for mobile devices that was created by OTB dev. (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the EV Charge Pro app (hereby referred to as "Application") for mobile devices that was created by OTB dev. (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
