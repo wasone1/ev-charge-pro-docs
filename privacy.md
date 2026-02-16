@@ -27,17 +27,17 @@ For a better experience, while using the Application, the Service Provider may r
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-1. Advertising (Google AdMob)
+ -  Advertising (Google AdMob)
 This App uses Google AdMob to display advertisements. AdMob may collect and use your device's advertising ID, location data, and other usage information to serve personalized or non-personalized ads.
 
 Link to AdMob Privacy Policy: https://policies.google.com/privacy
 
-2. Analytics (Google Firebase)
+ -  Analytics (Google Firebase)
 We use Google Firebase Analytics to understand how users interact with our App. This service collects data such as how often you use the App, what events occur within the App, and performance data. We use this information solely to improve the App's functionality and user experience.
 
 Link to Firebase Privacy Policy: https://firebase.google.com/support/privacy
 
-3. Crash Reporting (Firebase Crashlytics)
+ -  Crash Reporting (Firebase Crashlytics)
 We use Firebase Crashlytics to help us identify and fix crashes and bugs in our Application. This service collects data related to the crash, such as:
 
 Stack traces (details of the code failure)
